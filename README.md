@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=adityaomar3&fontSize=60&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=%3E_%20ML%20Engineer%20%7C%20AI%20Architect%20%7C%20Data%20Alchemist&descSize=18&descAlignY=55&descColor=00ff41" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=adityaomar3&fontSize=60&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=%3E_%20ML%20Engineer%20%7C%20AI%20Architect%20%7C%20Data%20Alchemist&descSize=18&descAlignY=55&descColor=00ff41" width="100%"/> -->
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
